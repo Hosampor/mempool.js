@@ -9,11 +9,11 @@ Interface to access Bitcoin `mainet`, `testnet`, `signet` APIs.
 ## **Features**
 
 - Addresses
-  - [Get Address](#get-address)
-  - [Get Address Txs](#get-address-txs)
-  - [Get Address Txs Chain](#get-address-txs-chain)
-  - [Get Address Txs Mempool](#get-address-txs-mempool)
-  - [Get Address Txs Utxo](#get-address-txs-utxo)
+  - [Get Address](#get-3QeYQ3QPuG3Wq1dVnrLq8ZpDXyabzFPnj7)
+  - [Get Address Txs](#get-3QeYQ3QPuG3Wq1dVnrLq8ZpDXyabzFPnj7-txs)
+  - [Get Address Txs Chain](#get-3QeYQ3QPuG3Wq1dVnrLq8ZpDXyabzFPnj7-txs-chain)
+  - [Get Address Txs Mempool](#get-3QeYQ3QPuG3Wq1dVnrLq8ZpDXyabzFPnj7-txs-mempool)
+  - [Get Address Txs Utxo](#get-3QeYQ3QPuG3Wq1dVnrLq8ZpDXyabzFPnj7-txs-utxo)
 - Assets
   - [Get Asset](#get-asset)
   - [Get Asset Txs](#get-asset-txs)
